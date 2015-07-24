@@ -1,0 +1,1 @@
+ChipCoin - X11 POW
